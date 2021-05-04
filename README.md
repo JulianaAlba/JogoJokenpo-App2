@@ -1,6 +1,28 @@
-# segundoappflutter
 
-Meu segundo app flutter do Curso
+## Aplicativo do Jogo Papel, Pedra e Tesoura
+#### Trata-se de um aplicativo simples, para aplicar conceitos de um Curso de Flutter da Udemy! #App2
+
+
+
+### Conceitos | Implementações:
+- Widgets e Material design
+- Estrutura de um App
+- Colunas e linhas
+- Formatação de textos
+- Botões
+- Espaçamentos
+- Alinhamentos
+- Imagens
+- Layout base com Scaffold
+- Stateless & Stateful
+- Gesture Detector
+- Operações lógicas e exibição de resultados
+
+
+
+<img src = 'imagens/JKP.gif' width='350'/> 
+
+
 
 ## Getting Started
 
